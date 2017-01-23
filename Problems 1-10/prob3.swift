@@ -3,10 +3,6 @@ var factors = [Int]()
 var n = find
 var d = 2
 
-if n == 1{
-    factors.append(n)
-}
-
 while n > 1{
     while n%d == 0{
         factors.append(d)
