@@ -1,5 +1,3 @@
-import foundation
-
 var x = 0
 var y = 0
 var total = 0

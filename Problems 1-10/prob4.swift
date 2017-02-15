@@ -1,5 +1,3 @@
-import foundation
-
 /*
  Largest Palendrome
  */

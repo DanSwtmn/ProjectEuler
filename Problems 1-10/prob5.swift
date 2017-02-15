@@ -1,5 +1,3 @@
-import foundation
-
 var i = 20
 while (i %  2 != 0 || i %  3 != 0 || i %  4 != 0 || i %  5 != 0 ||
     i %  6 != 0 || i %  7 != 0 || i %  8 != 0 || i %  9 != 0 ||

@@ -1,6 +1,5 @@
-import foundation
 var factors = [Int]()
-var n = find
+var n = 600851475143
 var d = 2
 
 while n > 1{
@@ -16,4 +15,5 @@ while n > 1{
         }
     }
 }
-print("\(factors.max()!)")
+print("\(factors)")
+
